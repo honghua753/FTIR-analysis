@@ -1,0 +1,13 @@
+Channel selection	111000
+Num of scans         	     1
+L-I value (X or R)	     1
+Z Fill Power         	     3
+Auto-set TC?     	     1
+Spacing (nm)        	   200
+Datapoint N          	  7513
+Start Pos (mm)       	13.0000
+End Pos (mm)      	14.5000
+Velocity (mm/s)    	0.0100
+Resolution (cm-1)	3.3333
+Scan time (s)        	150.0000
+Est. dwell T (ms)     	2.0000
